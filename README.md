@@ -19,6 +19,11 @@
        currency_name: "eur"  
    ```
 1. Restart Home Assistant
+1. Sensors created:
+   ```
+   sensor.btc_price_usd
+   sensor.btc_price_eur
+   ```   
 
 #### Available currencies
  - ARS
