@@ -2,9 +2,9 @@
     "domain": "btc_price",
     "name": "BTC Price",
     "version": "1.0",
-    "documentation": "https://github.com/tomlac40/btc_price,
+    "documentation": "https://github.com/tomlac40/btc_price",
     "dependencies": [],
     "codeowners": ["@tomlac40"],
-    "issue_tracker": "https://github.com/tomlac40/btc_price/issues"
+    "issue_tracker": "https://github.com/tomlac40/btc_price/issues",
     "requirements": []
 }
